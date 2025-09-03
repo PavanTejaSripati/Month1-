@@ -1,9 +1,4 @@
-# Month1-
-⚡ How to Compress into 1 Month
-
-We condense 12 weeks → 4 weeks, focusing on essentials.
-
-📅 Week 1 – Core Foundations
+Week 1 – Core Foundations
 
 SQL Joins, Window Functions (must do daily practice)
 
